@@ -1,0 +1,14 @@
+
+.env
+
+
+chroma_db/
+checkpoint_memory.db
+checkpoint_memory.db-shm
+checkpoint_memory.db-wal
+user_data.db
+
+__pycache__/
+agentenvironment/
+.ipynb_checkpoints/
+
