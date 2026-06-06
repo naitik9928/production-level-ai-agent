@@ -1,4 +1,25 @@
-langchain
-langgraph
-fastapi
-pydantic
+# LangGraph Core State Machine
+langgraph>=0.0.10
+
+# LangChain Orchestration & Integrations
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.3.0
+langchain-huggingface>=0.1.0
+
+# Vector Database
+chroma==0.6.3
+
+# Data Validation & Parsing
+pydantic>=2.0.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Document Processing
+pypdf>=4.0.0
+
+# Backend Server API Layer
+fastapi>=0.110.0
+uvicorn>=0.28.0
